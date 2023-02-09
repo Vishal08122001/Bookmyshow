@@ -1,7 +1,7 @@
 
 # Book My Show
 
-This is a backend project of Almabetter.It is a Full Stack Web App and clone of bookmyshow site. This app contains both the frontend as well as the backend api endpoints.
+This is a backend project of Almabetter.It is a Full Stack Web App and clone of bookmyshow site. This app contains both the frontend as well as the backend api endpoints. The frontend is build by using React and Bootstrap and the backend is made by using Node Express and MongoDB.
 
 In this app there are four sections :-
 
