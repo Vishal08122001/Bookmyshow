@@ -1,5 +1,7 @@
 const mongodb = require('mongodb');
 
+
+// This is the MongoDB Cloud Atlas link to connect our backend with the database
 const mongoURI = "mongodb+srv://Vishal258000:Vishal@258000@cluster0.i5cdbuz.mongodb.net/bookmyshow"
 
 let mongoose = require('mongoose');
